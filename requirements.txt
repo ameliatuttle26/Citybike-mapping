@@ -1,0 +1,18 @@
+pandas
+numpy
+jupyter
+
+# geospatial
+geopandas
+shapely
+esda
+libpysal
+
+# clustering / stats
+scikit-learn
+scipy
+
+# mapping / viz
+folium
+matplotlib
+seaborn
